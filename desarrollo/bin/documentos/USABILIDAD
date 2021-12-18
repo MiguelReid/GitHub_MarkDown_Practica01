@@ -1,0 +1,26 @@
+REGLAS DE USABILIDAD
+
+1.Tenemos una visibilidad perfecta, dando el feedback explicando con etiquetas
+que es lo que se ve o con ToolTipText que es la accion que puede realizar algun componente
+
+2. Las palabras son comunes y usadas en este tipo de formularios
+
+3. Gracias a los try catch y la prevencion de campos de texto en blanco evitamos
+errores fatales que puedan hacer que la aplicacion se desmorone
+
+4. Se facilita el poder reiniciar o volver a escribir algun campo por si hubiese
+habido algun cambio o equivocacion
+
+5. Hay un diseño minimalista sin poner elementos innecesarios
+
+6. Nos encontramos con una consistencia seguida en otras aplicaciones similares
+
+7. Hay una eficiencia de uso gracias a la nmonic alt+letra
+
+8. Hay una documentacion en el codigo indicando para que sirve que cosa y lo que me
+ha parecido mas interesante detallar (por ejemplo el hecho de que al poner 1huesped
+la opcion de cama doble desaparezca)
+
+9. En elcaso de errores es muy facil de reconocerlos ya que se trataran de algun
+campo en blanco (donde saldra una ventana emergente diciendote que faltan datos
+por rellenar)
